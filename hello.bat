@@ -1,2 +1,2 @@
 echo "Hello From Jenkins %date:%time"
-am in master branch
+echo "am in defect branch"
